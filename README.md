@@ -48,10 +48,10 @@
 
 **skill 如何判断**
 
-- 触发 `industry-lifecycle-staging`——这是全书入口,先用渗透率判断行业阶段(导入期 < 10%、成长期 10%-50%、成熟期 50%-80%、衰退期 > 80%),按阶段确定研究重点
-- 导入期:重点看`business-model-feasibility`(销售+利润可行性)
-- 成长期:重点看`market-sizing` + `moat-analysis`(规模+护城河)
-- 成熟期:重点看`competitive-landscape` + `industry-valuation`(格局+估值)
+- 触发 `industry-lifecycle-staging`——这是全书入口,先用渗透率判断行业阶段(**15%~20% 进入成长期、35%~40% 进入成熟期**),按阶段确定研究重点
+- 导入期(< 15%):重点看`business-model-feasibility`(销售+利润可行性)
+- 成长期(15%-35%):重点看`market-sizing` + `moat-analysis`(规模+护城河)
+- 成熟期(> 35%):重点看`competitive-landscape` + `industry-valuation`(格局+估值)
 
 **最终回答示例**
 
